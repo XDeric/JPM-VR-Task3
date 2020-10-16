@@ -1,0 +1,36 @@
+From d8b492ef6237581d21d3393ec97949fd8458c776 Mon Sep 17 00:00:00 2001
+From: XDEric <eeeric3995@yahoo.com>
+Date: Thu, 15 Oct 2020 22:47:00 -0400
+Subject: [PATCH] Create Patch File
+
+---
+ package-lock.json | 6 ++++--
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+
+diff --git a/package-lock.json b/package-lock.json
+index 885e312..33c7824 100644
+--- a/package-lock.json
++++ b/package-lock.json
+@@ -4626,7 +4626,8 @@
+         },
+         "kind-of": {
+           "version": "6.0.2",
+-          "resolved": ""
++          "resolved": "https://registry.npmjs.org/kind-of/-/kind-of-6.0.2.tgz",
++          "integrity": "sha512-s5kLOcnH0XqDO+FvuaLX8DDjZ18CGFk7VygH40QoKPUQhW4e2rvM0rwUq0t8IQDOwYSeLK01U90OjzBTme2QqA=="
+         }
+       }
+     },
+@@ -17977,7 +17978,8 @@
+         },
+         "kind-of": {
+           "version": "6.0.2",
+-          "resolved": ""
++          "resolved": "https://registry.npmjs.org/kind-of/-/kind-of-6.0.2.tgz",
++          "integrity": "sha512-s5kLOcnH0XqDO+FvuaLX8DDjZ18CGFk7VygH40QoKPUQhW4e2rvM0rwUq0t8IQDOwYSeLK01U90OjzBTme2QqA=="
+         }
+       }
+     },
+-- 
+2.20.1 (Apple Git-117)
+
